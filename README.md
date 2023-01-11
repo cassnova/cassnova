@@ -18,6 +18,8 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
   
 - 👨‍💻 Estudié frontend en Acámica.  
   
+- 🗽 Estudié ingles en Santa Barbara, California, EEUU.
+  
 - 👯 Estoy abierto para nuevas oportunidades de trabajo.
   
 - 💬 Preguntame sobre HTML, CSS, JavaScript, ReactJS o de lo que sea.
@@ -36,6 +38,18 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/express/express-original.s'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg'>
+<img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg'>
 
 </div>
   
