@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hola! Mi nombre es Daniel. Soy un apasionado por la tecnologia, la innovación y la creatividad  :smile: 
+<div size='20px'> Hola! Mi nombre es Daniel, soy desarrollador Fullstack. Soy un apasionado por la tecnologia, la innovación y la creatividad  :smile: 
 Me agrada trabajar en equipo y con ello observar distintos puntos de vista frente a una situación o problema a resolver. Me gustan los desafíos, porque enriquecen mi experiencia y  desempeño a nivel  profesional y siempre estoy en búsqueda de nuevos conocimientos que me permitan crecer y superar cada una de mis metas.
 </div>
 
@@ -10,15 +10,15 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 Actualmente trabajo en mi propio emprendimiento, Agencia DRC.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 Estoy terminando un bootcamp fullstack en LarnU.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 Estoy abierto para nuevas oportunidades de trabajo.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Preguntame sobre HTML, CSS, JavaScript, ReactJS o de lo que sea.
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun Fact: Me gusta la musica electronica y obviamente codear.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -59,6 +59,3 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
