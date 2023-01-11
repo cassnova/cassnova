@@ -26,7 +26,7 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
   
 - 👉 Website: [drcdeveloper.com](https://drcdeveloper.com/)
   
-- ⚡ Fun Fact: Me gusta la musica electronica y obviamente codear.
+- ⚡ Fun Fact: Me gusta la musica electronica, anime, series, peliculas, deportes y obviamente codear.
 
   <br>
   
