@@ -6,6 +6,9 @@
 Me agrada trabajar en equipo y con ello observar distintos puntos de vista frente a una situación o problema a resolver. Me gustan los desafíos, porque enriquecen mi experiencia y  desempeño a nivel  profesional y siempre estoy en búsqueda de nuevos conocimientos que me permitan crecer y superar cada una de mis metas.
 </div>
 
+  <br>
+  <br>
+  
 <h2> SOBRE MÍ </h2>
 
 
