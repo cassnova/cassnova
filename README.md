@@ -16,9 +16,13 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
   
 - 🌱 Estoy terminando un bootcamp fullstack en LarnU.
   
+- 👨‍💻 Estudié frontend en Acámica.  
+  
 - 👯 Estoy abierto para nuevas oportunidades de trabajo.
   
 - 💬 Preguntame sobre HTML, CSS, JavaScript, ReactJS o de lo que sea.
+  
+- 👉 Website: [drcdeveloper.com/](drcdeveloper.com/)
   
 - ⚡ Fun Fact: Me gusta la musica electronica y obviamente codear.
 
@@ -28,7 +32,7 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
   
 <h2> SKILLS <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <div>
-<img width ='32px' padding-right="20px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
