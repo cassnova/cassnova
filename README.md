@@ -3,6 +3,7 @@
 </p>
 
 <div size='20px'> Hola! Mi nombre es Daniel. Soy un apasionado por la tecnologia, la innovación y la creatividad  :smile: 
+Me agrada trabajar en equipo y con ello observar distintos puntos de vista frente a una situación o problema a resolver. Me gustan los desafíos, porque enriquecen mi experiencia y  desempeño a nivel  profesional y siempre estoy en búsqueda de nuevos conocimientos que me permitan crecer y superar cada una de mis metas.
 </div>
 
 <h2> SOBRE MÍ </h2>
