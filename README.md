@@ -9,7 +9,7 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
 <h2> SOBRE MÍ </h2>
 
 
-<img width="55%" height="30%" align="right" alt="Github" src="https://media.giphy.com/media/qy5puFfG5DGAFbr0SD/giphy-downsized-large.gif" />
+<img width="30%" height="30%" align="right" alt="Github" src="https://media.giphy.com/media/qy5puFfG5DGAFbr0SD/giphy-downsized-large.gif" />
 
 
 - 🔭 Actualmente trabajo en mi propio emprendimiento, Agencia DRC.
