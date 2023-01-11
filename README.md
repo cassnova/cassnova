@@ -8,7 +8,7 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
 
 <h2> SOBRE MÍ </h2>
 
-<iframe src="https://giphy.com/embed/RlrcXMffVZaouUVPGD" width="55%" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Refurbished-yes-notebook-pekne-RlrcXMffVZaouUVPGD">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/RlrcXMffVZaouUVPGD" width="55%" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 - 🔭 Actualmente trabajo en mi propio emprendimiento, Agencia DRC.
