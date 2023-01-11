@@ -8,7 +8,8 @@ Me agrada trabajar en equipo y con ello observar distintos puntos de vista frent
 
 <h2> SOBRE MÍ </h2>
 
-<iframe src="https://giphy.com/embed/RlrcXMffVZaouUVPGD" width="55%" align="right" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 Actualmente trabajo en mi propio emprendimiento, Agencia DRC.
